@@ -68,7 +68,7 @@ p {
   border-top: 5px solid hsl(212, 86%, 64%)
 }
 
-@media only screen and (max-width:375px) {
+@media only screen and (max-width:575px) {
   .mainheading {
     width: 100%;
     margin: 0;
